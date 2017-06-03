@@ -1,0 +1,13 @@
+{
+	"login": "Google Login",
+	"password": "Google Password",
+	"playlist": "Google Music Playlist Name",
+	"transfer": "Transfer music from VK",
+	"exp1": "Both vk and google music don't have official API for music, so to migration you need to:",
+	"exp2": "Open vk music page",
+	"exp3": "Click on this extension icon and input Login/Password below",
+	"exp4": "Hit 'Transfer' button",
+	"troub": "Troubleshooting:",
+	"noVkSongs": "If extension raises 'Could not fetch songs from vk' - please refresh tab with music in chrome and try again",
+	"noLogin": "If extension raises 'Failed to connect to Google Music' - please make sure you've inputed correct login/password"
+}
